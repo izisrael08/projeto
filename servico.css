@@ -1,0 +1,66 @@
+
+body {
+  background-image: url(back.png);
+  overflow-x: hidden;
+}
+
+.imgvetor02 {
+  width: 35%;
+  margin-bottom: 15%;
+}
+
+#section,
+.imgvetor02 {
+  display: inline-block;
+  align-items: center;
+}
+
+#section{
+  background: #363E59;
+  color: #F2DFD8;
+  text-align: justify;
+  position: relative;
+  width: 30%;
+  height: 0%;
+  margin-top: 20px;
+  box-shadow: 20px 20px 50px rgb( 0, 0, 0.5);
+  border-radius: 15px;
+  background: rgba(0, 0, 0, 0.687);
+  overflow: hidden;
+  justify-content: center;
+  border-top: 1px solid rgb(255, 255, 255, 0.5);
+    border-left: 1px solid rgb(255, 255, 255, 0.5);
+  backdrop-filter: blur(5px);
+  align-items: center;
+  margin-left: 10%;
+}
+
+.metodologia,
+.Acessoria,
+.Template {
+  color: #F2DFD8;
+  list-style: none;
+  font-size: 50px;
+}
+
+footer {
+  margin-top: 2.5%;
+  padding: 20px;
+  text-align: center;
+}
+h1{
+  text-align: center;
+  color: #F2DFD8;
+  padding-top: 80px ;
+  margin: 10px;
+}
+
+h2{
+  text-align: center;
+  color: #F2DFD8;
+  margin: 5px 150px;
+}
+.h1h2{
+  background-color: #101010a1;
+  padding: 5px;
+}

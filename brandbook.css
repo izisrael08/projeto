@@ -1,0 +1,40 @@
+body{
+  display: block;
+  justify-content: center;
+  align-items: center;
+  background: #333a57;
+  overflow-x: hidden;
+  margin-top: 50px;
+  text-align: center;
+  color: #f2ded5;
+}
+
+section{
+  background-image:url(back.png) ;
+}
+.vs{
+  width: 200px;
+}
+.tipo{
+  width: 600px;
+}
+.papelaria{
+  width: 200px;
+  display: inline-flex;
+}
+.cont{
+  box-shadow: 20px 20px 50px rgb( 0, 0, 0.5);
+  border-radius: 15px;
+  background: rgba(0, 0, 0, 0.687);
+  overflow: hidden;
+  justify-content: center;
+  border-top: 1px solid rgb(255, 255, 255, 0.5);
+  border-left: 1px solid rgb(255, 255, 255, 0.5);
+  backdrop-filter: blur(5px);
+  align-items: center;
+  margin: 0 200px 0 200px;
+}
+.capa{
+  background-image: url(fundo.jpeg);
+  
+}
